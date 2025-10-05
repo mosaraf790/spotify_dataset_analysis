@@ -1,0 +1,23 @@
+Column Name,Description
+track_id,A unique identifier for the track on Spotify.
+track_name,The title of the song.
+artist_name,The name of the artist(s) who performed the song.
+year,The release year of the song.
+popularity,"A measure of how popular a track is, ranging from 0 to 100."
+artwork_url,A URL pointing to the album artwork for the track.
+album_name,The name of the album the track belongs to.
+acousticness,"A confidence measure indicating whether the track is acoustic, ranging from -1.0 to 1.0."
+danceability,"A measure of how suitable a track is for dancing, ranging from -1.0 to +1.0."
+duration_ms,The duration of the track in milliseconds.
+energy,"A perceptual measure of intensity and activity, ranging from -1.0 to 1.0."
+instrumentalness,"Predicts whether a track contains no vocal content, ranging from -1.0 to +1.0."
+key,"The key the track is in, represented as an integer (e.g., 0 = C, 1 = C#, etc.)."
+liveness,"Detects the presence of an audience in the recording, ranging from -1.0 to +1.0."
+loudness,The overall loudness of a track in decibels (dB).
+mode,"Indicates the modality (major or minor) of a track (0 for minor, 1 for major)."
+speechiness,A measure detecting the presence of spoken words in a track.
+tempo,The overall estimated tempo of a track in beats per minute (BPM).
+time_signature,An estimated overall time signature of a track
+valence,A measure from -1.0 to 1.0 describing the musical positiveness conveyed by a track.
+track_url,A URL to the Spotify track.
+language,The detected language of the song's lyrics.
